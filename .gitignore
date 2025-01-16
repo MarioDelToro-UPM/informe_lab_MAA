@@ -1,0 +1,17 @@
+.vscode
+*.exe
+*.o
+*.vim
+*.asv
+*.xmpi
+*.acn
+*.glo
+*.aux
+*.out
+*.ist
+*.lof
+*.DS_Store
+*.log
+*.lot
+*.sinctex.gz
+*.toc
